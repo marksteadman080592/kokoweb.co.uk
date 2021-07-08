@@ -9,7 +9,7 @@ I make Anki flashcards (questions/answer), for get a better understanding of the
 
 Three goals: 
 
-1. **More efficient use of your study time,**
+1. **More efficient use of your time,**
 2. **Train your intuition,**
 3. **Find situations you are truly wrong to study them hard.**
 
