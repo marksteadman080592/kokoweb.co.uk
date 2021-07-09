@@ -2,16 +2,16 @@
 
 [<img align="center" width="390" height="130" src="https://i.imgur.com/sSsFPeH.jpg">](https://www.youtube.com/channel/UC8v7NiZJeArSb03ukf86bKA) [<img align="center" width="300" height="100" src="https://i.imgur.com/5w9Ynsj.png">](https://www.twitch.tv/blunderhunter)
 
-[<img src="https://i.imgur.com/khmrS9G.jpg" width="700" height="180">](https://twitter.com/BlunderHunter1)
+[<img src="https://i.imgur.com/khmrS9G.jpg" width="700" height="180">]()
 
 
-I make Anki flashcards (questions/answer), for get a better understanding of the equilibrium (**all come from piosolver**).  
+I make Anki flashcards mainly for chess but also for learning languages and scholastic education.  
 
 Three goals: 
 
 1. **More efficient use of your study time,**
 2. **Train your intuition,**
-3. **Find situations you are truly wrong to study them hard.**
+3. **Focus on your weaknesses.**
 
 I think the main key points i am doing better than others are : 
 
