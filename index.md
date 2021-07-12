@@ -3,9 +3,9 @@
 
 [<img src="https://i.imgur.com/khmrS9G.jpg" width="700" height="180">](https://twitter.com/steadman0805)
 
+Hello Everyone, I am a keen chess and poker player and also portuguese as my ambition is to move to brazil one day. I make Anki flashcards mainly for chess but also for learning languages and scholastic education. I also do private tuition online and one - on - one for students of all ages. 
 
-I make Anki flashcards mainly for chess but also for learning languages and scholastic education.  
-
+Check out my chess.com profile [here](https://www.chess.com/member/marcosteadman)
 Anki Flashcards are useful to
 
 1. **Make more efficient use of your study time,**
