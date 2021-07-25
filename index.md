@@ -1,9 +1,8 @@
 [<img align="center" width="390" height="130" src="https://i.imgur.com/HlpOH0C.jpg">](https://payhip.com/marksteadman)
-[<img align="center" width="390" height="130" src="https://i.imgur.com/sSsFPeH.jpg">](https://www.youtube.com/channel/UCtbOM_nch2e7v9VShyQDNDA) [<img align="center" width="300" height="100" src="https://i.imgur.com/5w9Ynsj.png">](https://www.twitch.tv/marcussteadman)
 
-[<img src="https://i.imgur.com/khmrS9G.jpg" width="700" height="180">](https://twitter.com/steadman0805)
+Welcome to Koko web, Koko web makes flashcards for education for students of all levels for Anki. From GCSE to A-level to University our flashcards our comprehensive, high quality and reasonable priced.
 
-Welcome to Koko web, Koko web makes flashcards for education for students of all levels for Anki.
+FAQ
 
 1. What is Anki?:
 
