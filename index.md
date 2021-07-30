@@ -1,5 +1,7 @@
 [<img align="center" width="390" height="130" src="https://i.imgur.com/HlpOH0C.jpg">](https://payhip.com/marksteadman)
 
+"So many wrongs in the world, so little time to right them" thought superman to himself as he binge watched his way through the third series of mad men.
+
 Welcome to Koko web, Koko web makes flashcards for education for students of all levels for Anki. From GCSE to A-level to University our flashcards our comprehensive, high quality and reasonable priced.
 
 FAQ
