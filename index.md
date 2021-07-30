@@ -2,6 +2,10 @@
 
 "So many wrongs in the world, so little time to right them" thought superman to himself as he binge watched his way through the third series of mad men.
 
+why is it that people always describe boxing as "violent chess" but they never describe chess as "non-violent boxing"
+
+I was fired from the first job I had after the boss found out I lied on my resume. I'd said that I was hard-working and reliable
+
 Welcome to Koko web, Koko web makes flashcards for education for students of all levels for Anki. From GCSE to A-level to University our flashcards our comprehensive, high quality and reasonable priced.
 
 FAQ
