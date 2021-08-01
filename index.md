@@ -1,9 +1,5 @@
 "So many wrongs in the world, so little time to right them" thought superman to himself as he binge watched his way through the third series of mad men.
 
-why is it that people always describe boxing as "violent chess" but they never describe chess as "non-violent boxing"
-
-I was fired from the first job I had after the boss found out I lied on my resume. I'd said that I was hard-working and reliable
-
 
 
 [<img align="center" width="390" height="130" src="https://i.imgur.com/HlpOH0C.jpg">](https://payhip.com/marksteadman)
@@ -30,3 +26,4 @@ kokoweb, provides flashcards and support for the more technical aspects of using
 
 Follow my instagram https://www.instagram.com/kokoweb08/ for regular updates on when new flascard decks are coming out.
 
+kokoweb.com is a subsidiary of Joko Ltd. 
