@@ -26,4 +26,4 @@ kokoweb, provides flashcards and support for the more technical aspects of using
 
 Follow my instagram https://www.instagram.com/kokoweb08/ for regular updates on when new flascard decks are coming out.
 
-kokoweb.com is a subsidiary of Joko Ltd. 
+kokoweb.com is a subsidiary of Joko Ltd. company number 12266105
