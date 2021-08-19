@@ -1,4 +1,4 @@
-Welcome to Koko web, Koko web makes flashcards for education for students of all levels for Anki. From GCSE to A-level to University our flashcards our comprehensive, high quality and reasonably priced.
+Welcome to Koko web, Koko web makes flashcards for education for students of all levels for Anki. From GCSE to A-level to University our flashcards our comprehensive, high quality and completely free!
 
 
 [<img align="center" width="390" height="130" src="https://i.imgur.com/HlpOH0C.jpg">](https://payhip.com/marksteadman)
